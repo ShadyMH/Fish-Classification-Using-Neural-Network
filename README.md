@@ -1,5 +1,3 @@
-# Neural-Network
-
 # Fish Species Classification using CNN
 
 This project focuses on classifying different species of fish using a Convolutional Neural Network (CNN). The dataset consists of images of nine different species of fish, and the project demonstrates the end-to-end process of developing, training, and evaluating a CNN model to accurately classify fish species.
